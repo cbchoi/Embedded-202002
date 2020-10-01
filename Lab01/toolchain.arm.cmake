@@ -1,0 +1,7 @@
+SET(CMAKE_C_COMPILER arm-bcm2708-linux-gnueabi-gcc)
+SET(CMAKE_CXX_COMPILER arm-bcm2708-linux-gnueabi-g++)
+SET(CMAKE_LINKER arm-bcm2708-linux-gnueabi-ld)
+SET(CMAKE_NM arm-bcm2708-linux-gnueabi-nm)
+SET(CMAKE_OBJCOPY arm-bcm2708-linux-gnueabi-objcopy)
+SET(CMAKE_OBJDUMP arm-bcm2708-linux-gnueabi-objdump)
+SET(CMAKE_RANLIB arm-bcm2708-linux-gnueabi-ranlib)
